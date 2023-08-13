@@ -5,7 +5,7 @@
 - 📫 How to reach me: laharigoshikaa@gmail.com
 - 😄 Pronouns: She
 
-[![Lahari's github stats](https://github-readme-stats.vercel.app/api?username=Laharigoshika&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Laharigoshika/github-readme-stats) :india: :us: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laharigoshika)](https://github.com/Laharigoshika/github-readme-stats)
+
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
