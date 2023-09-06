@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I completed my Masters in Business Analytics and Information.
+- 🌱 I completed my Masters in Business Analytics and Information Systems.
 - 🤔 I’m looking for  full time job opputunities  to work as Data Analyst or Business Analyst.
 - 📫 How to reach me: laharigoshikaa@gmail.com
 - 😄 Pronouns: She
