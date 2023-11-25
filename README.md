@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 - 🌱 I completed my Masters in Business Analytics and Information Systems.
 - 🤔 I’m looking for  full time job opputunities  to work as Data Analyst or Business Analyst.
